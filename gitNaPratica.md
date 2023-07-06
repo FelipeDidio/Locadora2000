@@ -11,3 +11,4 @@ git checkout "nome" -> Alterar de branch pelo nome
 git branch -d "nome" -> Excluir branch pelo nome
 
 git clone endereço(https) -> Clonar o repositório 
+git pull origin main -> Verificação das versões e atualização do código
